@@ -1,5 +1,5 @@
 
-# Respostas da avaliação da cadeira de Lógica Mátematica e Programação
+# Respostas da avaliação - Cadeira de Lógica Mátematica e Programação
 
 Algoritmos escolhidos: 
 
